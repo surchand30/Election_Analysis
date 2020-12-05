@@ -14,10 +14,8 @@ Based on the analysis performed using python, the following results were derived
 
 ## Election Audit Summary
 
-
-
-
-
+* This analysis could be extended to show how a candidate performed in a particular county. For Example did Diana get the higest votes in every county that she contested in?
+* If the data set comprised of the population density of each county, it would be possible to show the election commision what percent of the people in the county came out to vote and analyze the numbers.
 
 
 
